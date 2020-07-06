@@ -23,12 +23,11 @@ namespace Helps
                     throw new Exception("Bad data");
                 }
 
-                try
-                {
-                    numbers[i] = int.Parse(splitted[i]);
-
-                }
-                catch { }
+                //try
+                //{
+                //    numbers[i] = int.Parse(splitted[i]);
+                //}
+                //catch { }
 
                 numbers[i] = int.Parse(splitted[i]);
             }

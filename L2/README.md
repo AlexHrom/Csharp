@@ -8,6 +8,7 @@
 * value и reference типы
   * Ссылочные типы - https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/keywords/reference-types
   * Значимые типы - https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/builtin-types/value-types
+* Презентация - https://docs.google.com/presentation/d/1JGsUnw0lvddf6SgB5Z9KDw12wwJ0SHDKYRbaXpetGx4/edit?usp=sharing
 
   ## Задачи
 

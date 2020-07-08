@@ -15,16 +15,34 @@ namespace Methods
             //var human = new Human("Alex");
             //Console.WriteLine(human.Name);
 
-            var a = new Human("Andrew");
-            var b = new Human("Bratishka");
+            //var a = new Human("Andrew");
+            //var b = new Human("Bratishka");
 
-            Console.WriteLine(a.FullName);
-            Console.WriteLine(b.FullName);
+            //Console.WriteLine(a.FullName);
+            //Console.WriteLine(b.FullName);
 
-            Human.SchoolName = "SSYP";
+            //Human.SchoolName = "SSYP";
 
-            Console.WriteLine(a.FullName);
-            Console.WriteLine(b.FullName);
+            //Console.WriteLine(a.FullName);
+            //Console.WriteLine(b.FullName);
+
+            //var student = new Student("Nreew");
+
+            //var human = (Human)student;
+            //var human = student as Human;
+
+            object @object = string.Empty;
+            //var human = (Human)@object;
+            var human = @object as Human;
+            if (@object is Human)
+            {
+
+            }
+
+            var number = 4;
+            //number = null;
+            @object = number;
+            @object = null;
         }
     }
 

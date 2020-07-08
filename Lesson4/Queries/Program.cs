@@ -86,6 +86,11 @@ namespace Queries
             entities.LastOrDefault();
             entities.Last(e => e.Name.Contains("t"));
             entities.LastOrDefault(e => e.Name.Contains("t"));
+
+            entities.Single();
+            entities.SingleOrDefault();
+            entities.Single(e => e.Name.Contains("t"));
+            entities.SingleOrDefault(e => e.Name.Contains("t"));
         }
     }
 }

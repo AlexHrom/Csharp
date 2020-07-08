@@ -5,7 +5,7 @@
 
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/
 * https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/delegates/using-delegates
-* 
+* Преентация - https://docs.google.com/presentation/d/1SG2LKjvQyL4t25hF3SOyCokJg2ZUM4cRjoAz2vEQ-bA/edit?usp=sharing
 
   ## Задачи
 
